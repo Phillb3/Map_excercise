@@ -1,3 +1,9 @@
+var formattedData = {}
+data.map(function(d) {
+}
+
+
+
 
 //map JS
 svg.append("path")
